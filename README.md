@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Cv-Match-generator-Frontend
 =======
 # CV Matching Frontend
@@ -65,3 +66,7 @@ This frontend application is designed to work with the CV Matching Backend API. 
 
 This project is licensed under the MIT License.
 >>>>>>> 265ab49 (Initial Commit - Frontend React Cv Match)
+=======
+# Cv-Match-generator-Frontend
+Frontend (User Interface) The frontend interface offers an intuitive and responsive user experience for candidates and recruiters, built with React/Next.js.
+>>>>>>> ee0e4546be5595422f509413b45c316feaad55d7
